@@ -17,6 +17,5 @@ Um CRUD simples para criar, ler, atualizar e excluir tarefas de uma lista.
 
 ## Projeto
 
-<img alt="projeto" scr="img/lista.png">
-
-<img alt="projeto" scr="img/form.png">
+![Lista](img/lista.png)
+![Form](img/form.png)

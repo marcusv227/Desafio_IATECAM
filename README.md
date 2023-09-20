@@ -1,6 +1,6 @@
 # Desafio IATECAM
 
-Um CRUD simples para criar, ler, atualizar e excluir tarefas de uma lista.
+Um CRUD simples para criar, ler, atualizar e excluir registros de uma tabela.
 
 ## Funcionalidades
 
